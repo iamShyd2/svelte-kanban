@@ -1,0 +1,13 @@
+body{
+	font-family: Poppins;
+	background-color: #f1f1f1;
+}
+
+.section > div{
+	width: 984px;
+	padding: 0 100px;
+}
+
+.state:not(:first-child){
+	margin-left: 50px;
+}
